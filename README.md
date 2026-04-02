@@ -1,1 +1,1 @@
-# .github
+# EPIC: Efficient Physical Intelligence Compute
